@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @adam-clifton
+- 👀 I’m interested in ... coding, desktop and web application development.
+- 🌱 I’m currently learning ... how to make browser extensions.
+- 💞️ I’m looking to collaborate on ... the above stuff.
+- 📫 How to reach me ... on here is probably the best way.  
+
+<!---
+adam-clifton/adam-clifton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
