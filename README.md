@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adam-clifton
+- 👋 Hi, I’m @adam-clifton, I work in enterprise technology, but don't get enough coding.  So here I am....
 - 👀 I’m interested in ... coding, desktop and web application development.
 - 🌱 I’m currently learning ... how to make browser extensions.
 - 💞️ I’m looking to collaborate on ... the above stuff.
