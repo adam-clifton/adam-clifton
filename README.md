@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ... the above stuff.
 - 📫 How to reach me ... on here is probably the best way.  
 
+
+[![adam-clifton's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-clifton)](https://github.com/adam-clifton/github-readme-stats)
 <!---
 adam-clifton/adam-clifton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
