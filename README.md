@@ -5,7 +5,7 @@
 - 📫 How to reach me ... on here is probably the best way.  
 
 
-[![adam-clifton's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-clifton)](https://github.com/anuraghazra/github-readme-stats)
+[![adam-clifton's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-clifton&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 adam-clifton/adam-clifton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
