@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adam-clifton, I work in enterprise technology, but don't get enough coding.  So here I am....
-- 👀 I’m interested in ... coding, desktop and web application development.
-- 🌱 I’m currently learning ... how to make browser extensions.
+- 👋 Hi, I’m @adam-clifton, I work in aviation, embedded-C, Python.  This is for testing and projects
+- 👀 I’m interested in ... coding, embedded C, Python, desktop, and web application development.
+- 🌱 I’m currently learning ... what is code and how do I do?
 - 💞️ I’m looking to collaborate on ... the above stuff.
-- 📫 How to reach me ... on here is probably the best way.  
+- 📫 How to reach me ... send message through Github.  
 
 
 [![adam-clifton's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-clifton&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
